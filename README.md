@@ -7,7 +7,7 @@ Objetivos:
 - Entender e utilizar tratamento de exceções, coleções, padrão MVC (Model-View-Controller) entre outras técnicas de desenvolvimento.
 
 Principais funcionalidades:
-- Cadastro e consulta de estoque, funcionários e produtos;
+- Cadastro, consulta e alteração de estoque, funcionários e produtos;
 - Consulta especializada e geral;
 - Manutenção de descontos;
 - Agenda.
